@@ -1,2 +1,2 @@
-# zad1
+# Simulator platforme za pitanja i odgovore
  
